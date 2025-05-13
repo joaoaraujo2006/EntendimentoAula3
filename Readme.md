@@ -10,4 +10,4 @@ LEFT JOIN: Faz essa busca em apenas uma das tabelas, no caso a especificada no F
 
 FULL JOIN: Junta todas as colunas e linhas das tabelas requisitadas.
 
-Em geral, ainda vou precisar estudar para entender corretamente sobre esses comandos, pois ainda está um pouco vago.
+Em geral, ainda vou precisar estudar para entender corretamente sobre esses comandos.
